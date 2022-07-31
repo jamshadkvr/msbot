@@ -13,7 +13,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Samantha-a/MSBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jamshadkvr/msbot.git)
 ### Hard Way
 
 ```bash
